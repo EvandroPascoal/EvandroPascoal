@@ -26,7 +26,7 @@
 ![Github Pages](https://img.shields.io/badge/github%20pages-0D1117?style=for-the-badge&logo=github&logoColor=800080)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=FF0067)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=FFD700)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700)&nbsp;
 
 
 
