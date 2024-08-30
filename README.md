@@ -22,6 +22,11 @@
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Github Pages](https://img.shields.io/badge/github%20pages-0D1117?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
 
