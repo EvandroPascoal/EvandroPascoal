@@ -20,12 +20,12 @@
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563d7c)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=8CC84B)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)&nbsp;
-![Github Pages](https://img.shields.io/badge/github%20pages-0D1117?style=for-the-badge&logo=github&logoColor=181717)&nbsp;
+![Github Pages](https://img.shields.io/badge/github%20pages-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=FF0067)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=FFFFFF)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
