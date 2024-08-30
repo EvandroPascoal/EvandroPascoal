@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ced1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+muito+prazer,+eu+sou+o+Evandro;Tenho+22+anos;E+estou+estudando+na+área+de+tecnologia;Seja+bem+vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ced1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+muito+prazer,+eu+sou+o+Evandro;Seja+bem+vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -13,8 +13,8 @@
  </div>
  
  ### Minhas Habilidades / Estudando no momento:
- ![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=red)&nbsp;
- ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=red)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)&nbsp;
