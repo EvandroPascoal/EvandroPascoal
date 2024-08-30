@@ -28,6 +28,9 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=FF0067)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700)&nbsp;
 
+### Minha Imagem
+
+![Minha Imagem](https://github.com/EvandroPascoal/Minhas-Imagens/blob/main/Picsart_24-08-26_01-47-36-400.jpg?raw=true)
 
 
 
