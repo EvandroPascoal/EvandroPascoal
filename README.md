@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CB0E6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+muito+prazer,+eu+sou+o+Evandro;Seja+bem+vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=NaN0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+muito+prazer,+eu+sou+o+Evandro;Seja+bem+vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
