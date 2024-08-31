@@ -2,8 +2,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EvandroPascoal&show_icons=true&count_private=true&hide_border=true&title_color=0000&icon_color=NaN0000&text_color=c9d1d9&bg_color=0d1117" alt="Evandro Pascoal github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroPascoal&layout=compact&hide_border=true&title_color=NaN0000&text_color=NaN0000&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EvandroPascoal&show_icons=true&count_private=true&hide_border=true&title_color=00bbfe&icon_color=00bbfe&text_color=c9d1d9&bg_color=0d1117" alt="Evandro Pascoal github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroPascoal&layout=compact&hide_border=true&title_color=00bbfe&text_color=00bbfe&bg_color=0d1117" />
 </div>
 
 
