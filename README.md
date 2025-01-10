@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bbfe&size=35&center=true&vCenter=true&width=1000&lines=Olá,+muito+prazer,+eu+sou+o+Evandro;Seja+bem+vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6201&size=35&center=true&vCenter=true&width=1000&lines=Olá,+muito+prazer,+eu+sou+o+Evandro;Seja+bem+vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EvandroPascoal&show_icons=true&count_private=true&hide_border=true&title_color=00bbfe&icon_color=00bbfe&text_color=c9d1d9&bg_color=FF6201" alt="Evandro Pascoal github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroPascoal&layout=compact&hide_border=true&title_color=00bbfe&text_color=00bbfe&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EvandroPascoal&show_icons=true&count_private=true&hide_border=true&title_color=FF6201&icon_color=FF6201&text_color=c9d1d9&bg_color=0d1117" alt="Evandro Pascoal github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroPascoal&layout=compact&hide_border=true&title_color=FF6201&text_color=FF6201&bg_color=0d1117" />
 </div>
 
 
